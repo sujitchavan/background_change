@@ -1,0 +1,67 @@
+.bgprimary {
+    background-color: #5E4FDB;
+}
+
+.bgsecondary {
+    background-color: #1ABC9C;
+}
+
+.bgnegative {
+    background-color: #D64B4B;
+}
+
+.bgprimarylight {
+    background-color: #F3F2FC;
+}
+
+.bgdarkred {
+    background-color: #852121;
+}
+
+.bglightred {
+    background-color: #FFE3E3;
+}
+
+.bgdarkambar {
+    background-color: #C06801;
+}
+
+.bglightambar {
+    background-color: #FFF7E3;
+}
+
+.bgdarkgreen {
+    background-color: #0E4316;
+}
+
+.bglightgreen {
+    background-color: #E1EFE1;
+}
+
+.bgblack {
+    background-color: #000000;
+}
+
+.bgwhite {
+    background-color: #FFFFFF;
+}
+
+.bgblacktransperant {
+    background-color: #808080;
+}
+
+.bgdarkgrey {
+    background-color: #D8D8D8;
+}
+
+.bggrey {
+    background-color: #F0F0F0;
+}
+
+.bglightgrey {
+    background-color: #F6F6F6;
+}
+
+div {
+    margin: 5px;
+}
